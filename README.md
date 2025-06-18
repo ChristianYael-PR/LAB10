@@ -79,10 +79,3 @@ En cada celda registramos, además del valor máximo, una letra que indica el ob
 2. Laptop   (3 lb, \$2 000)  
 
 ---
-
-## Uso del Código
-
-1. Clona este repositorio.  
-2. Compila con:
-```bash
-g++ -std=c++11 mochila.cpp -o mochila
